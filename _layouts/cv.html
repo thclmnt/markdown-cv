@@ -5,8 +5,26 @@
   <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
   <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
+  <style type="text/css">
+    #lang{
+      position: absolute;
+      top: 5;
+      left: 5;
+    }
+    a {
+      text-decoration: none;
+    }
+  </style>
 </head>
 <body>
+  <div id="lang">
+    <a href="https://thclmnt.github.io/markdown-cv/fr">
+      <img src="media/france-flag-button-round-icon-128.png" alt="langfr" width="32" height="32">
+    </a>
+    <a href="https://thclmnt.github.io/markdown-cv/">
+      <img src="media/united-kingdom-flag-button-round-icon-128.png" alt="langen" width="32" height="32">
+    </a>
+  </div>
   <div id="main">
     <div id="content">
     {{ content }}
