@@ -6,7 +6,7 @@ title: Thomas Clement
 Student at the University of Bordeaux
 
 <div id="webaddress">
-  <a href="mail.thomasclement@gmail.com">mail.thomasclement@gmail.com</a>
+  <a href="mailto:mail.thomasclement@gmail.com">mail.thomasclement@gmail.com</a>
   <a href="https://github.com/thclmnt/">Github</a>
 </div>
 
