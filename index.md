@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Thomas Clement's CV
+title: Thomas Clement
 ---
 # Thomas Clement
 Student at the University of Bordeaux
