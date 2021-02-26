@@ -1,91 +1,74 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Thomas Clement's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Thomas Clement
+Student at the University of Bordeaux
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mail.thomasclement@gmail.com">mail.thomasclement@gmail.com</a>
+  <a href="https://github.com/thclmnt/">Github</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019 - now`
+**Bachelor of Computer Science**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+*University of Bordeaux, Talence (33)*
 
 
+`2017-2019`
+**Baccalauréat Sciences et Technologies de l'Industrie et du Développement Durable**, *with Honors*
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+*Lycée des Métiers Léonard De Vinci, Blanquefort (33)*
 
 
+## Experience
 
-## Publications
+`February 2015`
+**Computer Repairing (internship)**
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+*Geek33, Saint-Médard-en-Jalles (33)*
 
-### Journals
+## Projects
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+<a href="https://github.com/thclmnt/panne-tbm">Panne TBM</a> - A Node.js webapp to track tramway interruption in Bordeaux City
 
-`1669`
-Lectiones opticæ.
+<a href="https://github.com/thclmnt/PyCaptcha">PyCaptcha</a> - A small Python module to generate captcha using Pillow image library
 
-etc. etc. etc.
+## Press
 
-### Patents
+<a href="https://www.sudouest.fr/gironde/pessac/bordeaux-il-recense-les-problemes-de-tram-dans-la-metropole-sur-une-page-web-1350972.php">Sudouest: Bordeaux - Il recense les problèmes de tram dans la metropole sur une page web</a>
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Languages
 
+French: 🔵🔵🔵🔵🔵
 
-## Occupation
+English: 🔵🔵🔵🔵🔵
 
-`1600`
-__Royal Mint__, London
+Spanish: 🔵🔵⚫⚫⚫
 
-- Warden
-- Minted coins
+## Programming Languages
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Python
+- C
+- Javascript
+- Ocaml
 
+## Skills
 
+- Linux Operating System
+- Bash / Shell
+- Git
+- Wordpress
+- Node.js / Express
+- Database (MongoDB, Redis, MySQL)
+- Microsoft Office Suite
 
-<!-- ### Footer
+## Certifications
 
-Last updated: May 2013 -->
+`2020-2023`
+**PIX**
 
-
+*Digital Certification*
