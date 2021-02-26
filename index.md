@@ -7,7 +7,7 @@ Student at the University of Bordeaux
 
 <div id="webaddress">
   <a href="mailto:mail.thomasclement@gmail.com">mail.thomasclement@gmail.com</a>
-  <a href="https://github.com/thclmnt/">Github</a>
+  <a href="https://github.com/thclmnt/">Github/thclmnt</a>
 </div>
 
 ## Education
