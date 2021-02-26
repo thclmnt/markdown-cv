@@ -3,60 +3,60 @@ layout: cv
 title: Thomas Clement
 ---
 # Thomas Clement
-Student at the University of Bordeaux
+Étudiant à l'Université de Bordeaux
 
 <div id="webaddress">
   <a href="mail.thomasclement@gmail.com">mail.thomasclement@gmail.com</a>
   <a href="https://github.com/thclmnt/">Github</a>
 </div>
 
-## Education
+## Formation
 
-`2019 - now`
-**Bachelor of Computer Science**
+`Depuis 2019`
+**Licence d'Informatique**
 
-*University of Bordeaux, Talence (33)*
+*Université de Bordeaux, Talence (33)*
 
 
 `2017-2019`
-**Baccalauréat Sciences et Technologies de l'Industrie et du Développement Durable**, *with Honors*
+**Baccalauréat Sciences et Technologies de l'Industrie et du Développement Durable**, *Mention Très Bien*
 
 *Lycée des Métiers Léonard De Vinci, Blanquefort (33)*
 
 
-## Experience
+## Expérience
 
-`February 2015`
-**Computer Repairing (internship)**
+`Février 2015`
+**Réparation informatique (stage)**
 
 *Geek33, Saint-Médard-en-Jalles (33)*
 
-## Projects
+## Projets
 
-<a href="https://github.com/thclmnt/panne-tbm">Panne TBM</a> - A Node.js webapp to track tramway interruption in Bordeaux City
+<a href="https://github.com/thclmnt/panne-tbm">Panne TBM</a> - Une application Node.js qui traque les interruptions de tram à Bordeaux
 
-<a href="https://github.com/thclmnt/PyCaptcha">PyCaptcha</a> - A small Python module to generate captcha using Pillow image library
+<a href="https://github.com/thclmnt/PyCaptcha">PyCaptcha</a> - Un module Python qui génère des Capcha avec la bibliotèque d'image Pillow
 
-## Press
+## Presse
 
 <a href="https://www.sudouest.fr/gironde/pessac/bordeaux-il-recense-les-problemes-de-tram-dans-la-metropole-sur-une-page-web-1350972.php">Sudouest: Bordeaux - Il recense les problèmes de tram dans la metropole sur une page web</a>
 
-## Languages
+## Langues
 
-French: 🔵🔵🔵🔵🔵
+Français: 🔵🔵🔵🔵🔵
 
-English: 🔵🔵🔵🔵🔵
+Anglais: 🔵🔵🔵🔵🔵
 
-Spanish: 🔵🔵⚫⚫⚫
+Espagnol: 🔵🔵⚫⚫⚫
 
-## Programming Languages
+## Langages de programmation
 
 - Python
 - C
 - Javascript
 - Ocaml
 
-## Skills
+## Compétences
 
 - Linux Operating System
 - Bash / Shell
@@ -71,4 +71,4 @@ Spanish: 🔵🔵⚫⚫⚫
 `2020-2023`
 **PIX**
 
-*Digital Certification*
+*Certification Numérique*
